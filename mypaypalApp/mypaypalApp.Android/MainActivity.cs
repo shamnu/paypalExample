@@ -43,7 +43,7 @@ namespace mypaypalApp.Droid
                 ShippingAddressOption = ShippingAddressOption.Both,
 
                 // OPTIONAL - Language: Default languege for PayPal Plug-In
-                Language = "es",
+                Language = "en-us",
 
                 // OPTIONAL - PhoneCountryCode: Default phone country code for PayPal Plug-In
                 PhoneCountryCode = "52",
